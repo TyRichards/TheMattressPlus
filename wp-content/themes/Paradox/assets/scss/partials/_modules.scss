@@ -307,7 +307,7 @@ h1, h2, h3, h4, h5, h6 {
     @include border-radius(4px);
     left: 10px;
     top: 100px;
-
+    min-width: 256px;
     li {
     display: list-item;
 

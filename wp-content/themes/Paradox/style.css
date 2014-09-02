@@ -10404,6 +10404,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 4px;
   left: 10px;
   top: 100px;
+  min-width: 256px;
 }
 /* line 311, ../scss/partials/_modules.scss */
 .nav .menu-item .dropdown-menu li {
