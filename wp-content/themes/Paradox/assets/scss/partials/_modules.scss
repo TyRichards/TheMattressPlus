@@ -66,10 +66,12 @@ border: 1px solid #dddddd;
 
 header .navbar-brand {
     padding-bottom: 0px;
-    height: auto;
+    // height: auto;
     display: block;
     padding-top: 41px;
-
+    font-size: 25px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
     img {
         width: 240px;
         height: auto;

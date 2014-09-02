@@ -46,8 +46,9 @@
 							<div class="navbar-header col-sm-4 col-md-5">	
 								<div class="brand col-xs-10 col-md-12 col-no-padding">
 									<div class="clearfix">
-										<a class="navbar-brand col-no-padding" href="<?php echo esc_url(home_url('/')); ?>" title="<?php echo esc_attr(get_bloginfo('name', 'display')); ?>" rel="home" width="100%">	
-											<img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo.svg" alt="The Mattress Plus">							
+										<a class="navbar-brand col-no-padding" href="<?php echo esc_url(home_url('/')); ?>" title="<?php echo esc_attr(get_bloginfo('name', 'display')); ?>" rel="home" width="100%">
+											<?php echo esc_attr(get_bloginfo('name', 'display')); ?>	
+											<!-- <img src="<?php // echo get_template_directory_uri(); ?>/assets/images/logo.svg" alt="The Mattress Plus"> -->							
 										</a>
 									</div>									
 									<div class="clearfix hidden-xs">

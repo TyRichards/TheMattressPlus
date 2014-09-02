@@ -4,7 +4,7 @@
 // No media query since this is the default in Bootstrap (These are included in modules & layouts sass files)
 
 // Small devices (tablets, 768px and up)
-@media (min-width: $screen-sm-min) {
+@media (min-width: $screen-sm-min) {   
 
     .masthead {
         background-color: $gray-lighter;
@@ -35,7 +35,7 @@
 }
 
 // Medium devices (desktops, 992px and up)
-@media (min-width: $screen-md-min) {
+@media (min-width: $screen-md-min) { 
 
     header .navbar-brand img {
         width: 100%;
@@ -69,7 +69,7 @@
     margin-left: inherit;
     }    
 
-    header .navbar-brand { padding-top: 20px; }    
+    header .navbar-brand { padding-top: 17px; }    
 
     .navbar-toggle { margin-top: 12px; margin-bottom: 12px; }
 
@@ -177,7 +177,9 @@
 }
 
 // Medium devices only (desktops, 992px to 1200px)
-@media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+@media (min-width: $screen-md-min) and (max-width: $screen-md-max) { 
+
+    header .navbar-brand { font-size: 36px; }       
 
     .col-no-padding-md {
         padding-left: 0px;
@@ -191,6 +193,8 @@
 
 // Large devices only (large desktops, 1200px and up)
 @media (min-width: $screen-lg-min) {
+
+    header .navbar-brand { font-size: 45px; }       
 
     .col-no-padding-lg {
         padding-left: 0px;
