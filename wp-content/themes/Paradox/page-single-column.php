@@ -29,7 +29,7 @@ Template Name: Single Column
                 ?> 
                 <a class="btn btn-success" href="#">
                     <i class="fa fa-phone fa-1x"></i>
-                    Call (555) 555-5555
+                    Call (855) MAT-STORE
                 </a>
                     &nbsp;&nbsp;
                 <a class="btn btn-success" href="/locations">
