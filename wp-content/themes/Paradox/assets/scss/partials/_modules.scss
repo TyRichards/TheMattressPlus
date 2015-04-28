@@ -68,15 +68,28 @@ header .navbar-brand {
     padding-bottom: 0px;
     // height: auto;
     display: block;
+    color: #05672d!important;
     padding-top: 41px;
-    font-size: 25px;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: bold;
+    font-size: 38px!important;
+    font-family: "Coda", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 800;
     img {
         width: 240px;
         height: auto;
         float: left;
     }
+}
+
+footer .footer-logo {
+    padding-bottom: 0px;
+    // height: auto;
+    display: block;
+    color: #05672d!important;
+    padding-top: 0px;
+    font-size: 30px!important;
+    font-family: "Coda", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 800;    
+    text-align: center;
 }
 
 .col-no-padding {
