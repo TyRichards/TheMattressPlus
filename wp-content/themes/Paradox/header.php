@@ -91,14 +91,9 @@
 
 				<!-- Mobile Landing Section -->
 				<section class="mobile-landing visible-xs col-xs-12">
-				    <div class="col-xs-6 col-no-padding-xs phone" style="padding-right:5px">
-					    <a class="btn btn-primary btn-lg btn-block" href="tel:5555555555">
-					        (555) 555-5555
-					    </a> 
-				    </div>
-				    <div class="col-xs-6 col-no-padding-xs phone" style="padding-left:5px">
-					    <a class="btn btn-primary btn-lg btn-block" href="tel:4444444444">
-					        (444) 444-4444
+				    <div class="col-xs-12 col-no-padding-xs phone">
+					    <a class="btn btn-primary btn-lg btn-block" href="tel:85562878673">
+					        (855) MAT-STORE
 					    </a> 
 				    </div>
 				    <div class="col-xs-12 col-no-padding-xs call-to-action">
