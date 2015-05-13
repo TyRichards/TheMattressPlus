@@ -14,9 +14,7 @@
 				        <div class="col-sm-6 col-sm-offset-3 col-md-5 col-md-offset-0">
 							<div class="col-sm-12 col-no-padding-xs">
 								<div class="clearfix">
-						        	<a class="footer-logo" href="<?php echo esc_url(home_url('/')); ?>" title="<?php echo esc_attr(get_bloginfo('name', 'display')); ?>" rel="home">
-							        	<?php echo esc_attr(get_bloginfo('name', 'display')); ?>	
-							        </a>
+
 				      			</div>
 								<div class="clearfix">
 									<p class="text-center tagline"><?php bloginfo('description'); ?></p>
