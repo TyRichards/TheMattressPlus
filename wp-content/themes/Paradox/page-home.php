@@ -25,7 +25,7 @@ Template Name: Home
                 </p>
                 <div class="clearfix"></div>                
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sem massa, varius sed enim non, ornare egestas velit. Curabitur at scelerisque ligula, ut ultricies diam. <a href="/about-us">Learn More</a>
+                    Check out our most popular mattresses available in store today.</a>
                 </p>
             </div>
         </div>        
