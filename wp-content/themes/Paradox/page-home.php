@@ -52,7 +52,7 @@ Template Name: Home
 
                 } //endwhile;
                 ?>
-                <a class="btn btn-success" href="#">
+                <a class="btn btn-success" href="tel:85562878673">
                     <i class="fa fa-phone fa-1x"></i>
                     Call (855) MAT-STORE
                 </a>

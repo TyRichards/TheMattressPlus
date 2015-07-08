@@ -50,9 +50,9 @@
 				                </ul> -->
           				</div>					        
 	        			<div class="col-sm-6 col-md-3">
-							<a class="btn btn-primary btn-block" href="/schedule-inspection">
+							<a class="btn btn-primary btn-block" href="tel:85562878673">
 										<i class="fa fa-phone fa-1x"></i>
-										(555) 555-5555
+										(855) MAT-STORE
 									</a>
 							<a class="btn btn-primary btn-block" href="/schedule-inspection">
 										<i class="fa fa-map-marker fa-1x"></i>

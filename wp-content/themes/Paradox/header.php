@@ -75,7 +75,7 @@
 					</nav>				
 				</section> <!-- section-navbar -->
 		    <div class="contact-nav hidden-xs">
-			    <a class="btn btn-primary btn" href="tel:5555555555">
+			    <a class="btn btn-primary btn" href="tel:85562878673">
 						<i class="fa fa-phone fa-1x"></i>
 			    	(855) MAT-STORE
 			    </a> 
