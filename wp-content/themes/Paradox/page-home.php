@@ -17,10 +17,10 @@ Template Name: Home
                 <h2>The Largest Selection in the Southwest</h2>
                 <p>
                     <div class="col-xs-6 col-no-padding" style="padding-right:5px!important">
-                        <a class="btn btn-success btn-block text-center" href="/commercial">Curv</a>
+                        <a class="btn btn-success btn-block text-center" href="/products/dormeo-octaspring/">Dormeo</a>
                     </div>                
                     <div class="col-xs-6 col-no-padding" style="padding-left:5px!important">
-                        <a class="btn btn-success btn-block text-center" href="/residential">Beautyrest</a>
+                        <a class="btn btn-success btn-block text-center" href="/products/beautyrest-recharge/">Beautyrest</a>
                     </div>
                 </p>
                 <div class="clearfix"></div>                
