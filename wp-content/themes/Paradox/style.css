@@ -6886,6 +6886,9 @@ h1, h2, h3, h4, h5, h6 {
   color: red;
   font-size: 18px; }
 
+header .navbar a.navbar-brand {
+  font-size: 23px !important; }
+
 @media (min-width: 768px) {
   .masthead {
     background-color: #eeeeee; }
