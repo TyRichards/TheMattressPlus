@@ -52,9 +52,9 @@ Template Name: Home
 
                 } //endwhile;
                 ?>
-                <a class="btn btn-success" href="tel:85562878673">
+                <a class="btn btn-success" href="tel:8556287867">
                     <i class="fa fa-phone fa-1x"></i>
-                    Call (855) MAT-STORE
+                    Call (855) MAT-STOR
                 </a>
                     &nbsp;&nbsp;
                 <a class="btn btn-success" href="/locations">

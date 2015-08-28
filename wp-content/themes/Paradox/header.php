@@ -74,7 +74,7 @@
 					</nav>				
 				</section> <!-- section-navbar -->
 		    <div class="contact-nav hidden-xs">
-			    <a class="btn btn-primary btn" href="tel:85562878673">
+			    <a class="btn btn-primary btn" href="tel:8556287867">
 					<i class="fa fa-phone fa-1x"></i>
 			    	(855) MAT-STOR
 			    	<span class="trans-phone">628-7867</span>
@@ -92,7 +92,7 @@
 				<!-- Mobile Landing Section -->
 				<section class="mobile-landing visible-xs col-xs-12">
 				    <div class="col-xs-12 col-no-padding-xs phone">
-					    <a class="btn btn-primary btn-lg btn-block" href="tel:85562878673">
+					    <a class="btn btn-primary btn-lg btn-block" href="tel:8556287867">
 					        (855) MAT-STOR
 					        <span class="trans-phone">628-7867</span>
 					    </a> 
