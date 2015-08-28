@@ -38,7 +38,6 @@
 		<?php do_action('before'); ?> 
 		
 		<div class="container main-container col-no-padding">
-
 			<header>			
 				<section class="top-navbar">				
 					<nav class="navbar navbar-default" role="navigation">
@@ -76,8 +75,9 @@
 				</section> <!-- section-navbar -->
 		    <div class="contact-nav hidden-xs">
 			    <a class="btn btn-primary btn" href="tel:85562878673">
-						<i class="fa fa-phone fa-1x"></i>
-			    	(855) MAT-STORE
+					<i class="fa fa-phone fa-1x"></i>
+			    	(855) MAT-STOR
+			    	<span class="trans-phone">628-7867</span>
 			    </a> 
 			    <a class="btn btn-primary btn" href="/locations">
 						<i class="fa fa-map-marker fa-1x"></i>			    	
@@ -93,7 +93,8 @@
 				<section class="mobile-landing visible-xs col-xs-12">
 				    <div class="col-xs-12 col-no-padding-xs phone">
 					    <a class="btn btn-primary btn-lg btn-block" href="tel:85562878673">
-					        (855) MAT-STORE
+					        (855) MAT-STOR
+					        <span class="trans-phone">628-7867</span>
 					    </a> 
 				    </div>
 				    <div class="col-xs-12 col-no-padding-xs call-to-action">

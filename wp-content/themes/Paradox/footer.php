@@ -51,13 +51,14 @@
           				</div>					        
 	        			<div class="col-sm-6 col-md-3"> 
 							<a class="btn btn-primary btn-block" href="tel:85562878673">
-										<i class="fa fa-phone fa-1x"></i>
-										(855) MAT-STORE
-									</a>
+								<i class="fa fa-phone fa-1x"></i>
+								(855) MAT-STOR
+								<span class="trans-phone">628-7867</span>
+							</a>
 							<a class="btn btn-primary btn-block" href="/schedule-inspection">
-										<i class="fa fa-map-marker fa-1x"></i>
-										Locations
-									</a>  										  					
+								<i class="fa fa-map-marker fa-1x"></i>
+								Locations
+							</a>  										  					
 	      				</div>
 			        </div> <!-- container -->
 	      		</section>	      		
@@ -89,9 +90,6 @@
 		
 		
 		<!--wordpress footer-->
-		<?php wp_footer(); ?> 
-		<!-- Typekit -->
-		<script type="text/javascript" src="//use.typekit.net/ksc8vkp.js"></script>
-		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>		
+		<?php wp_footer(); ?> 	
 	</body>
 </html>
